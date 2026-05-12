@@ -8,7 +8,7 @@ A **relational database design and implementation project** built around a ficti
 
 ## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="1000"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="10000"/>
 
 ---
 
